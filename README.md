@@ -1,6 +1,6 @@
-# 👁️ Praxivision
+# 👁️ Praxvision
 
-Praxivision es una aplicación web desarrollada con **JavaScript + HTML + CSS** que permite a cualquier usuario subir una imagen y **detectar automáticamente objetos** utilizando un modelo de IA ejecutado localmente con **Ollama**.
+PraxVision es una aplicación web desarrollada con **JavaScript + HTML + CSS** que permite a cualquier usuario subir una imagen y **detectar automáticamente objetos** utilizando un modelo de IA ejecutado localmente con **Ollama**.
 
 El sistema procesa la imagen, envía la solicitud al modelo IA en el backend y retorna una lista detallada de los objetos detectados, sus posiciones y etiquetas.  
 Es ideal para proyectos educativos, demostraciones de visión artificial, seguridad, control de inventario y más.
