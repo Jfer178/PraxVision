@@ -1,4 +1,4 @@
-👁️ Praxivision
+#👁️ Praxivision
 
 Praxivision es una aplicación web desarrollada con JavaScript + HTML + CSS que permite a cualquier usuario subir una imagen y detectar automáticamente objetos utilizando un modelo de IA ejecutado localmente con Ollama.
 
