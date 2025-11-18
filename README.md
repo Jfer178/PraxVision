@@ -1,7 +1,9 @@
-*Praxivision 👁️*
-Praxivion es una aplicación web desarrollada con JavaScript + HTML + CSS que permite a cualquier usuario subir una imagen y detectar automáticamente objetos utilizando un modelo de IA ejecutado localmente con Ollama .
+👁️ Praxivision
 
-El sistema procesa la imagen, envía la solicitud al modelo IA en el backend y retorna una lista detallada de los objetos detectados, sus posiciones y etiquetas. Es una herramienta ideal para proyectos educativos, demostraciones de visión artificial, seguridad, control de inventario y más.
+Praxivision es una aplicación web desarrollada con JavaScript + HTML + CSS que permite a cualquier usuario subir una imagen y detectar automáticamente objetos utilizando un modelo de IA ejecutado localmente con Ollama.
+
+El sistema procesa la imagen, envía la solicitud al modelo IA en el backend y retorna una lista detallada de los objetos detectados, sus posiciones y etiquetas.
+Es ideal para proyectos educativos, demostraciones de visión artificial, seguridad, control de inventario y más.
 
 🚀 Características principales
 
@@ -11,18 +13,18 @@ El sistema procesa la imagen, envía la solicitud al modelo IA en el backend y r
 
 🎯 Detección de objetos con precisión según el modelo seleccionado.
 
-⚡ Respuesta rápida gracias a un flujo optimizado (Frontend → Backend → Modelo).
+⚡ Flujo optimizado (Frontend → Backend → Modelo).
 
-💻 Interfaz ligera hecha con JavaScript puro y estilos limpios.
+💻 Interfaz ligera hecha con JavaScript puro.
 
-🔌 API backend que gestiona el envío de la imagen al modelo y responde con predicciones.
+🔌 API backend que envía la imagen al modelo y retorna predicciones.
 
 🏗 Tecnologías utilizadas
 
 Frontend: HTML, CSS, JavaScript
 
-Backend: Node.js (o el backend que uses)
+Backend: Node.js (o el que uses)
 
 IA Local: Ollama + LLaVA
 
-Procesamiento: canvas / buffer para enviar imagen al modelo
+Procesamiento: Canvas / Buffer
